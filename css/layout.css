@@ -24,10 +24,14 @@
 
 /* Posititoning Classes */
 
-.left {
+.col-1 {
   float: left;
 }
 
-.right {
+.col-2 {
+  float: clear;
+}
+
+.col-3 {
   float: right;
 }
