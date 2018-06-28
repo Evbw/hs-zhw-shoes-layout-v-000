@@ -45,5 +45,6 @@
 }
 
 [class*="col-"] {
+  float: left;
   margin-left: 2%;
 }
