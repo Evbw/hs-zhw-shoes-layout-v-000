@@ -43,3 +43,7 @@
   float: right;
   width: 32%;
 }
+
+[class*="col-"] {
+  margin: 2%;
+}
