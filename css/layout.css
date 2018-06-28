@@ -33,11 +33,3 @@
   width: 31%;
 }
 
-[class*="col-"] {
-  float: left;
-  margin-left: 2%;
-}
-
-.first {
-  margin-left: 0%;
-}
