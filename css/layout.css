@@ -9,6 +9,10 @@
   -moz-box-sizing: border-box;
 }
 
+.clear {
+  clear: both;
+}
+
 .clear:after {
   content: ".";
   display: block;
@@ -16,10 +20,6 @@
   visibility: hidden;
   height: 0;
   line-height: 0;
-}
-
-.clear {
-  clear: both;
 }
 
 /* Posititoning Classes */
